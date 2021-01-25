@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Kae 👋🏽
 
-<!--
-**sokaeb/sokaeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub. 🌎 I'm a full stack web developer aspiring to make meaningful impacts in the world through tech. 👩🏽‍💻 I'm currently finishing the Lambda School Web Development program where I have had several opportunites to collaborate on projects, learn new technologies, and create diverse applications. 🧩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Continuing to build my knowledge on 🧠:
+JavaScript
+React
+Redux
+NodeJS
+Python
+CSS/SASS
+HTML
+AWS
+PostgreSQL
+
+
