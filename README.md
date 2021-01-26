@@ -11,6 +11,10 @@ Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img style="margin: 10px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/postgreesql.png"/>
 </div>
 
 #### Contact:
@@ -18,5 +22,7 @@ Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful
 [<img height="60px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>](https://www.linkedin.com/in/kae-benton/)
 
 
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokaeb&layout=compact" />
 
-Icons by <a href="https://icons8.com/icon/GNO9f2CARaea/mail">Icons8</a>
+
+Icons by <a href="https://icons8.com/icon/GNO9f2CARaea/mail" target="_blank">Icons8</a>
