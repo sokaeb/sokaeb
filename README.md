@@ -22,7 +22,7 @@ Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful
 [<img height="60px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>](https://www.linkedin.com/in/kae-benton/)
 
 
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokaeb&layout=compact" />
+![Kae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sokaeb&layout=compact)
 
 
 Icons by <a href="https://icons8.com/icon/GNO9f2CARaea/mail" target="_blank">Icons8</a>
