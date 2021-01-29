@@ -21,10 +21,10 @@ Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful
 
 ---
 #### Contact:
-[<img src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/>](mailto:sonja.k.benton@gmail.com)
-[<img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>](https://www.linkedin.com/in/kae-benton/)
-
-
+<div align="center">
+  <a href="mailto:sonja.k.benton@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/></a>
+  <a href="https://www.linkedin.com/in/kae-benton/" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokaeb&layout=compact" />
 
