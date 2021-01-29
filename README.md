@@ -4,6 +4,7 @@
 Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful impacts in the world through tech. 🌎 👩🏽‍💻 I'm currently finishing the Lambda School Web Development program where I have had several opportunites to collaborate on projects, learn new technologies, and create diverse applications. 🧩
 
 ---
+
 #### Technologies:
 <div>
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript Logo"/>
@@ -24,7 +25,8 @@ Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful
 [<img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>](https://www.linkedin.com/in/kae-benton/)
 
 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokaeb&layout=compact" />
 
 
-Icons by <a href="https://icons8.com/icon/GNO9f2CARaea/mail" target="_blank">Icons8</a>
+Icons by <a href="https://icons8.com/icon/GNO9f2CARaea/mail">Icons8</a>
