@@ -6,7 +6,7 @@ Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful
 ---
 
 #### Technologies:
-<div>
+<div align="center">
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript Logo"/>
 <img style="margin: 10px" height="50px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -21,7 +21,7 @@ Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful
 
 ---
 #### Contact:
-<div align="center">
+<div>
   <a href="mailto:sonja.k.benton@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/></a>
   <a href="https://www.linkedin.com/in/kae-benton/" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </div>
