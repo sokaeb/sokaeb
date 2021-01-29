@@ -5,7 +5,7 @@ Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful
 
 ---
 
-<div align="center">Tech Stack:</div>
+#### <div align="center">Tech Stack:</div>
 <div align="center">
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript Logo"/>
 <img style="margin: 10px" height="50px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
@@ -26,7 +26,7 @@ Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful
   <a href="https://www.linkedin.com/in/kae-benton/" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokaeb&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokaeb&layout=compact" align="right" />
 
 
 Icons by <a href="https://icons8.com/icon/GNO9f2CARaea/mail">Icons8</a>
