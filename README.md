@@ -21,10 +21,8 @@ Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful
 
 ---
 #### Contact:
-<div>
-  <a href="mailto:sonja.k.benton@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/></a>
-  <a href="https://www.linkedin.com/in/kae-benton/" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-</div>
+<a href="mailto:sonja.k.benton@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/></a>
+<a href="https://www.linkedin.com/in/kae-benton/" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokaeb&layout=compact" align="right" />
 
