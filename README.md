@@ -5,7 +5,7 @@ Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful
 
 ---
 
-#### Technologies:
+#### <div align="center">Tech Stack:</div>
 <div align="center">
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript Logo"/>
 <img style="margin: 10px" height="50px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
