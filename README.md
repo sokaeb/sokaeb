@@ -15,7 +15,7 @@ Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img style="margin: 10px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img style="margin: 10px" src="https://img.icons8.com/dusk/64/000000/sql.png"/>
+<img style="margin: 10px" height="50px" src="https://img.icons8.com/dusk/64/000000/sql.png"/>
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 </div>
 
