@@ -1,7 +1,7 @@
 ### Hi there, I'm Kae! 👋🏽
 
 
-Welcome to my GitHub. I'm a full stack web developer aspiring to make meaningful impacts in the world through tech. 🌎 👩🏽‍💻 I've recently finished the Lambda School Web Development program where I have had several opportunites to collaborate on projects, learn new technologies, and create diverse applications. 🧩
+Welcome to my GitHub. I'm a UX/UI designer/front-end dev aspiring to make meaningful impacts in the world through tech. 🌎 👩🏽‍💻 I've recently finished the Lambda School Web Development program where I have had several opportunites to collaborate on projects, learn new technologies, and create diverse applications. 🧩
 
 ---
 
